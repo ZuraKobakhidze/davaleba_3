@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">davaleba_3</string>
+    <string name="titleName">Chat</string>
+    <string name="usernameTitle">USERNAME</string>
+    <string name="testUsername">sienna@app.com</string>
+    <string name="passwordTitle">PASSWORD</string>
+    <string name="testPassword">••••••••</string>
+    <string name="loginText">Get Started</string>
+    <string name="createAccount">Create Account</string>
+    <string name="needHelp">Need Help?</string>
+</resources>
